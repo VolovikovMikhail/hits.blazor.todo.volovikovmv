@@ -6,4 +6,5 @@ namespace TodoServerApp.Data
     public class ApplicationUser : IdentityUser
     {
     }
+
 }
